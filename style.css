@@ -1,0 +1,65 @@
+/* Created by TopStyle Trial - www.topstyle4.com */
+/*
+Author: Steve/CaffeineDash/C8H10N4O2Addict
+contact: jawes70@gmail.com
+Description: This page is a basic CSS.
+*/
+
+.startpage > header {
+	text-align: center;
+}
+
+.startpage > header h1 {
+	font-family:sans-serif;
+	font-size: 250%;
+	display: inline-block;
+	vertical-align: 50%;
+}
+
+.logotype{
+	height: 100px;
+	width: auto;
+}
+
+
+
+.startpage > div > .nav {
+	text-align: left;
+	
+	text-decoration:underline;
+	background: #e6e6e6;
+	display: inline-block;
+	vertical-align:top;
+}
+
+.startpage > div > .nav:first-of-type {
+	text-decoration: none;
+	font-weight: bold;
+}
+
+
+#mainContent {
+	width: 70%;
+	margin: auto;
+	
+}
+
+#content {
+	background: #e6e6e6;
+	width: 90%;
+	display: inline-block;
+}
+
+#content h1{
+	font-family: sans-serif;
+}
+#content > img {
+	width: 100%;
+}
+
+footer {
+	display: block;
+	margin: 3em 0;
+	text-align: center;
+	color: #777;
+}
